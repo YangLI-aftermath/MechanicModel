@@ -1,6 +1,6 @@
 # Li Yang
 # Educational Background
-* B.S., Mathematics and Applied Mathematics, School of Mathematics, Sun Yat-sen University
+* B.Sc., Mathematics and Applied Mathematics, School of Mathematics, Sun Yat-sen University
 # Research Interests
 * Applied Mathematics
 * Computer Vision and other related topics
