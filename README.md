@@ -1,7 +1,7 @@
 # Li Yang
 # Educational Background
 * B.Sc., Mathematics and Applied Mathematics, School of Mathematics, Sun Yat-sen University (SYSU)
-* R.A., Deep Vision Lab, Information Hub, The Hong Kong Univerisity of Science and Technology (HKUST)
+* M.Phill, Deep Vision Lab, Information Hub, The Hong Kong Univerisity of Science and Technology (HKUST)
 # Research Interests
 * Applied Mathematics
 * Computer Vision and other related topics
